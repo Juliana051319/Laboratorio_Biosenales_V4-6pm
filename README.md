@@ -1,4 +1,4 @@
-# Laboratorio_Biose-ales
+# Laboratorio_Biosenales
 
 ## Flujo de trabajo colaborativo en Git
 
